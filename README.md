@@ -22,5 +22,5 @@ Vai ter listagem de vídeos, informações sobre a banda, contato,  imagens e re
 - Javascript
 - API KEY
 - NPM
-- 
-- 
+- JSON
+- README.md
