@@ -14,17 +14,24 @@ O projeto terar uma interface, com apenas um camapo de busca nomeio de tela, aon
 Vai ter listagem de vídeos, informações sobre a banda, contato,  imagens e redes sociais,  e o que mais você conseguir extarir da API 
  
  
-  # Usaremos nesse projeto
 
 
-- HTML5
-- CSS3
-- Javascript
-- API KEY
-- NPM
-- JSON
+# Tecnologias utilizadas
+
+
+## Back end
+- Java
+- API KET
+- JPA / Hibernate
 - README.md
 - PHP
+
+## Front end
+- HTML / CSS / JS / TypeScript
+- ReactJS
+- React 
+- Apex Charts
+- JSON
 
  ## Layout mobile
 ![Mobile 1]() ![Mobile 2]()
